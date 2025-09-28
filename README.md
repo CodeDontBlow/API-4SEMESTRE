@@ -23,7 +23,11 @@ Com isso, o sistema não apenas minimiza riscos de penalidades e evita retrabalh
 https://github.com/user-attachments/assets/378220d2-17e4-4a09-a1b0-96ca7a894956
 
 ---
+## 🛣️ RoadMap
 
+<div style="display: flex; justify-content: center;">
+  <img src="./docs/assets/ROADMAP.png" style="width: 70%">
+</div>
 
 ## 📑 Backlog do Produto
 <div align="center">
