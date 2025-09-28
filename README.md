@@ -20,6 +20,7 @@ Com isso, o sistema não apenas minimiza riscos de penalidades e evita retrabalh
 
 ### • Sprint 1
 
+https://github.com/user-attachments/assets/378220d2-17e4-4a09-a1b0-96ca7a894956
 
 ---
 
@@ -69,7 +70,7 @@ Com isso, o sistema não apenas minimiza riscos de penalidades e evita retrabalh
 | Sprint            | Período     | Status        |
 | ----------------- | ---------- | -----------|
 | Kick Off          | 25/08/2025 |  Concluído         | 
-| 01                | 08/09 - 28/09 | [Concluída - Docs](../API-4SEMESTRE/docs/sprints/sprint-1/README.md)  | 
+| 01                | 08/09 - 28/09 | [Concluída - Docs](docs\sprints\sprint-1\README.md)  | 
 | 02                | 06/10 - 26/10 | Ainda não iniciada  | 
 | 03                | 03/11 - 28/11 | Ainda não iniciada | 
 | Feira de Soluções | 04/12/2025 |   Ainda não iniciada  | 
