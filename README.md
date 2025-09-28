@@ -1,10 +1,5 @@
 <h1 align="center">  Projeto API - 4º Semestre </h1>
- 
-## 📌 Tema
-<h3> Agente de Inteligência Artificial para Registro de Importação </h3>
-
-
-<h4> Instrução automatizada e otimização dos processos aduaneiros </h4>
+<h3 align="center">  Agente de Inteligência Artificial para Registro de Importação </h3>
 
 ---
 
@@ -18,12 +13,8 @@ e/ou multas sobre o material declarado.
 
 
 ## 🔎 MVP (Minimum Viable Product)
-Aplicação web para automatizar a análise de documentos de importação, padronizar descrições técnicas e validar classificações fiscais, garantindo eficiência, precisão e conformidade no processo de Registro de Importação.
-
-
-## 📍 Levantamento de Requisitos 
-
----
+Como solução para esse desafio, o <b> Descriptum </b> será uma aplicação desenvolvida para automatizar a análise de documentos de importação, assegurando maior consistência, confiabilidade e agilidade no processo. A plataforma permitirá padronizar descrições técnicas, validar classificações fiscais e garantir conformidade regulatória, reduzindo a complexidade e eliminando incertezas no Registro de Importação.
+Com isso, o sistema não apenas minimiza riscos de penalidades e evita retrabalho, mas também fortalece a segurança, a precisão e a transparência nas transações aduaneiras, contribuindo diretamente para a eficiência, a competitividade e a sustentabilidade das operações de comércio exterior.
 
 ## 📽️ Demonstração 
 
@@ -49,25 +40,39 @@ Aplicação web para automatizar a análise de documentos de importação, padro
 
 </div>
 
-## 🛠️ Tecnologias e Ferramentas Utilizadas
+## 🛠️ Tecnologias
 
-| ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql) | ![FastAPI](https://img.shields.io/badge/-FastAPI-0D1117?style=for-the-badge&logo=fastapi) | ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react) |
-| --- | --- | --- | --- |
-| ![Vite](https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=vite) | ![Ollama](https://img.shields.io/badge/-Ollama-0D1117?style=for-the-badge&logo=ollama) | ![Jira](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=jira) | ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma) |
+<div align="center">
+
+![Ollama](https://img.shields.io/badge/-Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Poetry](https://img.shields.io/badge/poetry-000000?style=for-the-badge&logo=python&logoColor=fff)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5C2D91?style=for-the-badge&logo=datadog&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
+</h4>
+</div>
+
 
 ## 📅 Cronograma e Sprints
 
-| Sprint            | Início     | Fim        | Status        |
-| ----------------- | ---------- | -----------|---------------|
-| Kick Off          | 25/08/2025 |            | Concluído     |
-| 01                | 08/09/2025 | 28/09/2025 | Em andamento  |
-| 02                | 06/10/2025 | 26/10/2025 | Não iniciado      |
-| 03                | 03/11/2025 | 28/11/2025 | Não iniciado       |
-| Feira de Soluções | 04/12/2025 |            | Não iniciado       |
+| Sprint            | Período     | Status        |
+| ----------------- | ---------- | -----------|
+| Kick Off          | 25/08/2025 |  Concluído         | 
+| 01                | 08/09 - 28/09 | [Concluída - Docs](../API-4SEMESTRE/docs/sprints/sprint-1/README.md)  | 
+| 02                | 06/10 - 26/10 | Ainda não iniciada  | 
+| 03                | 03/11 - 28/11 | Ainda não iniciada | 
+| Feira de Soluções | 04/12/2025 |   Ainda não iniciada  | 
 
 ---
 
